@@ -1,0 +1,12 @@
+class Staff
+
+name_of_staff_member(string)
+is_the_staff_member_tipped (boolean)
+salary_per_hour (int)
+managers_and_underlings (array)
+number_of_staff_working (int)
+
+changeStaffmember (changes name of name_of_staff_member)
+addPayrate (adds 1 to salary_per_hour)
+promoteManager (add another group and move an underling to manager in managers_and_underlings)
+removeStaffworking (remove a staff member from current number_of_staff_working)

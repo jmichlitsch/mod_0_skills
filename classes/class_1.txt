@@ -1,0 +1,13 @@
+class Food
+
+Attributes
+name_of_food(string)
+is_the_food_solid(boolean)
+number_of_food_ordered(int)
+number_of_condiments_used(int)
+
+Methods
+changename_of_food (changes name_of_food string)
+addFood (adds 1 to number_of_food_ordered)
+is_the_food_solid (true or false if the said food is solid or liquid)
+removeCondiments(removes 1 condiment from number_of_condiments_used)

@@ -1,0 +1,11 @@
+class Staff
+
+name_of_staff_member = John
+salary_per_hour = 15
+managers_and_underlings = ["John": "Stacy", "Jacob", "Kim", "Tim"]
+number_of_staff_working = 5
+
+changeStaffmember = "Stacy"
+addPayrate = 15
+promoteManager = ["Stacy": "Tiffany", "Jeff", "Rachel", "Eric"]
+removeStaffworking = 4
