@@ -1,11 +1,12 @@
 class food
 
-name_of_food = sweet and sour chicken
-is_the_food_solid = t
-number_of_food_ordered = 2
+name = sweet and sour chicken
+is_solid = t
+number_ordered = 2
 number_of_condiments_used = 9
 
-changename_of_food = sour and sweet chicken
-addfood = 3
-is_the_food_solid = t
-removeCondiments = 8
+change_name = sour and sweet chicken
+add = 3
+is_solid = t
+add_condiments = 10
+remove_condiments = 9
