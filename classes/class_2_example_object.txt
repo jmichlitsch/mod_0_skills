@@ -1,6 +1,6 @@
-class Staff
+class staff
 
-name_worker = John
+name_worker = "John"
 salary_per_hour = 15
 managers_and_underlings = ["John": "Stacy", "Jacob", "Kim", "Tim"]
 number_working = 5

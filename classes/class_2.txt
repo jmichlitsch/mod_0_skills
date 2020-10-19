@@ -1,12 +1,12 @@
-class Staff
+class staff
 
-name_of_worker(string)
+name_of_worker (string)
 is_the_worker_tipped (boolean)
 salary_per_hour (int)
 managers_and_underlings (array)
 number_working (int)
 
-change_worker (changes name of name_of_staff_member)
+change_worker (changes name of name_of_worker)
 add_pay_rate (adds 1 to salary_per_hour)
 promote_manager (add another group and move an underling to manager in managers_and_underlings)
-remove_number_working (remove a staff member from current number_of_staff_working)
+remove_number_working (remove a staff member from current number_working)

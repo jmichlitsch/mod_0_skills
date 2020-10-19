@@ -1,13 +1,14 @@
-class Food
+class food
 
 Attributes
-name(string)
-is_solid(boolean)
-number_ordered(int)
-number_of_condiments_used(int)
+product_name (string)
+is_solid (boolean)
+number_ordered (int)
+number_of_condiments_used (int)
+product_description (string)
 
 Methods
-change_name (changes name of string)
-add (adds 1 to number_ordered)
+change_product_name (changes name of string)
+add_number_ordered (adds 1 to number_ordered)
 add_condiments (adds 1 condiment to number_of_condiments_used)
-remove_condiments(removes 1 condiment from number_of_condiments_used)
+remove_condiments (removes 1 condiment from number_of_condiments_used)

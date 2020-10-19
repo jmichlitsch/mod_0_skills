@@ -1,12 +1,12 @@
 class food
 
-name = sweet and sour chicken
+product_name = "sweet and sour chicken"
 is_solid = t
 number_ordered = 2
 number_of_condiments_used = 9
+product_description = "fried bit size chicken coated in sweet and sour sauce"
 
-change_name = sour and sweet chicken
-add = 3
-is_solid = t
+change_product_name = "sour and sweet chicken"
+add_number_ordered = 3
 add_condiments = 10
 remove_condiments = 9
