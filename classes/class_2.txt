@@ -3,7 +3,7 @@ class staff
 name_of_worker (string)
 is_the_worker_tipped (boolean)
 salary_per_hour (int)
-managers_and_underlings (array)
+managers_and_underlings (hash/object)
 number_working (int)
 
 change_worker (changes name of name_of_worker)

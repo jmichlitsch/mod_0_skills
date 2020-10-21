@@ -1,7 +1,7 @@
 class food
 
 product_name = "sweet and sour chicken"
-is_solid = t
+is_solid ==  true
 number_ordered = 2
 number_of_condiments_used = 9
 product_description = "fried bit size chicken coated in sweet and sour sauce"
