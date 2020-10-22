@@ -2,10 +2,10 @@ class staff
 
 name_worker = "John"
 salary_per_hour = 15
-managers_and_underlings = ["John": "Stacy", "Jacob", "Kim", "Tim"]
+manager_and_underlings = {"John": "Stacy", "Jacob", "Kim", "Tim"}
 number_working = 5
 
 change_worker = "Stacy"
 add_pay_rate = 15
-promote_manager = ["Stacy": "Tiffany", "Jeff", "Rachel", "Eric"]
+promote_manager = {"Stacy": "Tiffany", "Jeff", "Rachel", "Eric"}
 remove_number_working = 4
